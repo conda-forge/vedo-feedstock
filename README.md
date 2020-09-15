@@ -5,7 +5,7 @@ Home: https://github.com/marcomusy/vedo/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A python module for scientific visualization, analysis and animation of 3D objects and point clouds based on VTK.
 
