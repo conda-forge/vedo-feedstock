@@ -1,5 +1,5 @@
 {% set name = "vedo" %}
-{% set version = "2021.0.3" %}
+{% set version = "2021.0.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: de6e3987a67e0b7ef6d3fcd0bfad39e2af7484d2062f4cc7196ddad1da4f649a
+  sha256: a977b78113eb9b85fcf4cf5d32f0cac6761af50045aea3c9a2432e54ee0acedd
 
 build:
   number: 0
