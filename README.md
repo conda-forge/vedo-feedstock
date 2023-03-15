@@ -1,11 +1,11 @@
-About vedo
-==========
+About vedo-feedstock
+====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vedo-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/marcomusy/vedo/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/vedo-feedstock/blob/main/LICENSE.txt)
 
 Summary: A python module for scientific visualization, analysis and animation of 3D objects and point clouds based on VTK.
 
