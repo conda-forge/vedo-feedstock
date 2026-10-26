@@ -1,13 +1,13 @@
 {% set name = "vedo" %}
-{% set version = "2026.6.1" %}
+{% set version = "2026.6.3" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 17fbea620eec0e75831dc326974123fd97f559acf1590c54a8824c1ac71d8bd3
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 33c7c9450dfa7622e4aa91f682b63fca2f04a1f992fd9af52fb23b4452f1750b
 
 build:
   number: 0
